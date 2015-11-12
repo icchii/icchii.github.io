@@ -6,8 +6,33 @@
     <description>Recent content in Posts on Dolce far niente!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2015 12:19:05 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2015 16:17:47 +0900</lastBuildDate>
     <atom:link href="https://icchii.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>画像の表示とか</title>
+      <link>https://icchii.github.io/post/image/</link>
+      <pubDate>Thu, 12 Nov 2015 16:17:47 +0900</pubDate>
+      
+      <guid>https://icchii.github.io/post/image/</guid>
+      <description>
+
+&lt;h2 id=&#34;画像の表示とかってどうなってるんだろう:b24a04a898225bc33eec822085b5e3eb&#34;&gt;画像の表示とかってどうなってるんだろう。&lt;/h2&gt;
+
+&lt;p&gt;っつーわけで、表示してみる。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://icchii.github.io/images/forest.jpg&#34; alt=&#34;お気に入りの画像&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;ちゃんとマークダウンで表示されているようです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://icchii.github.io/images/lake.jpg&#34;&gt;&lt;br /&gt;
+&lt;a href=&#34;https://unsplash.com/&#34;&gt;photos by Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;タグでもちゃんと表示される。&lt;br /&gt;
+更新してて、楽しいのが良いです。サクサクストレス本当にない……うーん&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>終わったー！</title>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Dolce far niente!</title>
-    <link>http://localhost:1313/tags/hugo/</link>
+    <link>https://icchii.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on Dolce far niente!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 12 Nov 2015 08:17:05 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://icchii.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello Hugo</title>
-      <link>http://localhost:1313/post/hello/</link>
+      <link>https://icchii.github.io/post/hello/</link>
       <pubDate>Thu, 12 Nov 2015 08:17:05 +0900</pubDate>
       
-      <guid>http://localhost:1313/post/hello/</guid>
+      <guid>https://icchii.github.io/post/hello/</guid>
       <description>
 
 &lt;h2 id=&#34;hugoを使い始めてみる:8a07c3dae13f18d0c06cf5f9e482b173&#34;&gt;hugoを使い始めてみる。&lt;/h2&gt;

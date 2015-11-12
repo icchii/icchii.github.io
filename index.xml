@@ -6,31 +6,39 @@
     <description>Recent content on Dolce far niente!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2015 12:39:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2015 08:17:05 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>about</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 09 Nov 2015 12:39:02 +0900</pubDate>
+      <title>Hello Hugo</title>
+      <link>http://localhost:1313/post/hello/</link>
+      <pubDate>Thu, 12 Nov 2015 08:17:05 +0900</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>記事生成のテスト</title>
-      <link>http://localhost:1313/post/lorem-ipsum-test/</link>
-      <pubDate>Thu, 14 May 2015 20:50:06 +0900</pubDate>
-      
-      <guid>http://localhost:1313/post/lorem-ipsum-test/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+      <guid>http://localhost:1313/post/hello/</guid>
+      <description>
 
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;h2 id=&#34;hugoを使い始めてみる:8a07c3dae13f18d0c06cf5f9e482b173&#34;&gt;hugoを使い始めてみる。&lt;/h2&gt;
 
-&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+&lt;p&gt;早速ぶつかった問題は、記事全部がindexに出てしまう。&lt;br /&gt;
+postのみを出す方法は分かったのだけど、pageのみを出す方法が分からず。&lt;br /&gt;
+公式読んでると色々できるんだな～これは時間がかかりそう、と思った。&lt;br /&gt;
+よって、暫くは書くだけに専念する。&lt;br /&gt;
+１１月末かな。いじり始められるようになるのは。&lt;br /&gt;
+その前に掃除しなくちゃ……&lt;/p&gt;
 
-&lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h2 id=&#34;いじりまわしたいこと:8a07c3dae13f18d0c06cf5f9e482b173&#34;&gt;いじりまわしたいこと&lt;/h2&gt;
+
+&lt;p&gt;indexにpostのみ表示、headerにpage（menu）を表示。&lt;br /&gt;
+タグ表示。&lt;/p&gt;
+
+&lt;h2 id=&#34;今日の予定:8a07c3dae13f18d0c06cf5f9e482b173&#34;&gt;今日の予定&lt;/h2&gt;
+
+&lt;p&gt;五章書き上げ、全体見直しに入る。&lt;/p&gt;
+
+&lt;h2 id=&#34;ここ最近のワクワクさん:8a07c3dae13f18d0c06cf5f9e482b173&#34;&gt;ここ最近のワクワクさん&lt;/h2&gt;
+
+&lt;p&gt;unityの勉強を始めようかと思っている！&lt;br /&gt;
+ゲーム作っちゃうぞ&lt;/p&gt;
 </description>
     </item>
     

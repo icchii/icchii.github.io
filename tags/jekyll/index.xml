@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on Dolce far niente!</title>
+    <link>https://icchii.github.io/tags/jekyll/</link>
+    <description>Recent content in Jekyll on Dolce far niente!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 25 Nov 2015 15:30:59 +0900</lastBuildDate>
+    <atom:link href="https://icchii.github.io/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>jekyllがアップデートされたぞー！</title>
+      <link>https://icchii.github.io/post/jekyllupdate/</link>
+      <pubDate>Wed, 25 Nov 2015 15:30:59 +0900</pubDate>
+      
+      <guid>https://icchii.github.io/post/jekyllupdate/</guid>
+      <description>
+
+&lt;h2 id=&#34;jekyllがアップデートされてたぞー:20812e6d3a3fa899628ee8652b7c99b0&#34;&gt;jekyllがアップデートされてたぞー！&lt;/h2&gt;
+
+&lt;p&gt;と言うわけで、jekyll3をいじってみた。&lt;br /&gt;
+&lt;strong&gt;すんごく早かった&lt;/strong&gt;。&lt;br /&gt;
+でも、今動かしてるサイトをjekyll３で動かしたら、レイアウト崩れまくった。&lt;br /&gt;
+えええええええええ&lt;/p&gt;
+
+&lt;p&gt;しかも、バグか何なのか、マークダウンファイルにて、liquidで囲ったhtmlタグがコンバートされないと言う事案が発生。&lt;br /&gt;
+今まで、全部、mdにliquid書いてやってたから、直すのが。直すのがああああああ&lt;br /&gt;
+調べても解決方法を見つけられず。&lt;/p&gt;
+
+&lt;p&gt;と言うわけで、先日、新しいサイトを立ち上げたのですが、&lt;br /&gt;
+そちらは、jekyll３で動かし、&lt;br /&gt;
+今までのは、2.1.1で動かしてます。移動はしたいけど。&lt;br /&gt;
+とにかく、jekyl３は速かったです。
+でもhugoも速いです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

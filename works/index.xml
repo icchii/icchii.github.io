@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Dolce far niente!</title>
+    <link>http://localhost:1313/works/</link>
+    <description>Recent content in Works on Dolce far niente!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 13 Nov 2015 12:40:43 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test1</title>
+      <link>http://localhost:1313/works/ddd/test1/</link>
+      <pubDate>Fri, 13 Nov 2015 12:40:43 +0900</pubDate>
+      
+      <guid>http://localhost:1313/works/ddd/test1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>http://localhost:1313/works/test1/</link>
+      <pubDate>Fri, 13 Nov 2015 12:40:43 +0900</pubDate>
+      
+      <guid>http://localhost:1313/works/test1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>http://localhost:1313/works/test2/</link>
+      <pubDate>Fri, 13 Nov 2015 12:40:43 +0900</pubDate>
+      
+      <guid>http://localhost:1313/works/test2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>http://localhost:1313/works/test3/</link>
+      <pubDate>Fri, 13 Nov 2015 12:40:43 +0900</pubDate>
+      
+      <guid>http://localhost:1313/works/test3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>http://localhost:1313/works/ddd/test2/</link>
+      <pubDate>Fri, 13 Nov 2015 12:40:43 +0900</pubDate>
+      
+      <guid>http://localhost:1313/works/ddd/test2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test3</title>
+      <link>http://localhost:1313/works/ddd/test3/</link>
+      <pubDate>Fri, 13 Nov 2015 12:40:43 +0900</pubDate>
+      
+      <guid>http://localhost:1313/works/ddd/test3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

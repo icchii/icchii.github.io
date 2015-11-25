@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="/css/skeleton.css">
 <link rel="stylesheet" href="/css/custom.css">
 <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Dolce far niente!">
-<title> - Dolce far niente!</title>
+<title>test1 - Dolce far niente!</title>
 </head>
 <body>
 
@@ -35,24 +35,32 @@
 
 
 	<main role="main">
-		<h1 class="list-title"></h1>
-
-		<article itemscope itemtype="http://schema.org/Blog">
-			<h2 class="entry-title" itemprop="headline"><a href="/post/jekyllupdate/">jekyllがアップデートされたぞー！</a></h2>
-			<span class="entry-meta"><time itemprop="datePublished" datetime="2015-11-25">November 25, 2015</time></span>
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline">test1</h1>
+			<span class="entry-meta"><time itemprop="datePublished" datetime="2015-11-13">November 13, 2015</time></span>
+			<section itemprop="entry-text">
+				
+			</section>
 		</article>
-
-		<article itemscope itemtype="http://schema.org/Blog">
-			<h2 class="entry-title" itemprop="headline"><a href="/post/image/">画像の表示とか</a></h2>
-			<span class="entry-meta"><time itemprop="datePublished" datetime="2015-11-12">November 12, 2015</time></span>
-		</article>
-
-		<article itemscope itemtype="http://schema.org/Blog">
-			<h2 class="entry-title" itemprop="headline"><a href="/post/hello/">Hello Hugo</a></h2>
-			<span class="entry-meta"><time itemprop="datePublished" datetime="2015-11-12">November 12, 2015</time></span>
-		</article>
-
 	</main>
+
+
+
+<div class="pager">
+  <div class="pager-prev">
+  
+    Prev: <a href="http://localhost:1313/works/test1/">test1</a>
+  
+  </div>
+
+  <div class="pager-next">
+  
+    &nbsp;
+  
+  </div>
+</div>
+
+
 
 
 	<footer role="contentinfo">
@@ -73,5 +81,8 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
-</body>
+<script data-no-instant>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>

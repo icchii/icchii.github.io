@@ -6,8 +6,107 @@
     <description>Recent content on Dolce far niente!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Dec 2015 19:57:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2015 15:42:06 +0900</lastBuildDate>
     <atom:link href="https://icchii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>家人が風邪をひきまして</title>
+      <link>https://icchii.github.io/post/cold/</link>
+      <pubDate>Tue, 08 Dec 2015 15:42:06 +0900</pubDate>
+      
+      <guid>https://icchii.github.io/post/cold/</guid>
+      <description>
+
+&lt;h2 id=&#34;ここ二日のお菓子量:0c12642c46e5894dafdb840c4a27aa41&#34;&gt;ここ二日のお菓子量&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ヨーグルト+オリゴ糖&lt;/li&gt;
+&lt;li&gt;珈琲牛乳+オリゴ糖
+でお送りしております。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;hugo-zenが使っている-スケルトンcssについて:0c12642c46e5894dafdb840c4a27aa41&#34;&gt;hugo-zenが使っている、スケルトンCSSについて&lt;/h2&gt;
+
+&lt;p&gt;とても良いと思います。&lt;br /&gt;
+ので、自分のサイトにも使おうかな、と。&lt;/p&gt;
+
+&lt;h2 id=&#34;今日やったこと:0c12642c46e5894dafdb840c4a27aa41&#34;&gt;今日やったこと&lt;/h2&gt;
+
+&lt;p&gt;色塗り……&lt;br /&gt;
+何故とか、聞かないで欲しい。&lt;br /&gt;
+何故か家に、タブレットがあった件。&lt;/p&gt;
+
+&lt;h2 id=&#34;その他:0c12642c46e5894dafdb840c4a27aa41&#34;&gt;その他&lt;/h2&gt;
+
+&lt;p&gt;最近、何もせずに一日が終わっていて、ぞっとしています。&lt;br /&gt;
+読破した本は、ザ・マインドマップ。くら、い……&lt;br /&gt;
+お菓子食べてた頃は、色々仕事を精力的にやっていたような気がしますが。&lt;br /&gt;
+家人が風邪をひき、職場から帰ってきました。&lt;br /&gt;
+暇です。私が暇です。
+本日は朝から体調が悪かったのですが、家人の方が悪かったようです。&lt;br /&gt;
+気がついたら１５時過ぎてます。びっくりです。&lt;br /&gt;
+本番用のは、進めるのに躊躇しますが、やっぱり毎日書くって大事だと思うんです。&lt;br /&gt;
+だから、毎日書くようのものを始めたい。&lt;br /&gt;
+始めたい、が、それならその前にプロットを切らなければ、と言う。&lt;br /&gt;
+そして、プロットを切るくらいなら、本番用のを進めたいと言う。&lt;br /&gt;
+頼まれてるのもまだ終わっていないし。１月末までにプロット切るそうなので、&lt;br /&gt;
+ああああ、と思わなくもない。&lt;br /&gt;
+が、やっぱり、書くってことを愉しみたいので、プロット適当に切ろうかな、と思った次第。&lt;br /&gt;
+精力的に。精力的にいこう。&lt;/p&gt;
+
+&lt;p&gt;明日も良い日でありますように。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>自動リロードはライブリロードと言うらしい</title>
+      <link>https://icchii.github.io/post/livereload/</link>
+      <pubDate>Mon, 07 Dec 2015 11:47:34 +0900</pubDate>
+      
+      <guid>https://icchii.github.io/post/livereload/</guid>
+      <description>
+
+&lt;h2 id=&#34;jekyll2-11から3-01へ:8af1ea668632c6d0f95688c7177cb178&#34;&gt;jekyll2.11から3.01へ&lt;/h2&gt;
+
+&lt;p&gt;サイトのjekyllをついに、バージョンアップしました。&lt;br /&gt;
+速くなってた。でも、やっぱりhugoの速さにはおっついていないような……記事数が少ないからなのか。&lt;br /&gt;
+paginationを使うのにconfigにちょろっと追加しました。&lt;br /&gt;
+それだけで何とかいつも通りに動いてくれたので、まぁ、満足です。&lt;br /&gt;
+ずっと、jekyll　autoreloadで検索してたんですけど、&lt;br /&gt;
+live　reloadっつーんですね。hugoみたいな仕様。&lt;br /&gt;
+できなくはなさそうだったんですが、やり方の記事がバージョン２の話だったのでやめました。&lt;br /&gt;
+QIITAにあったのも去年のデータだし……&lt;br /&gt;
+デフォルトでlive　reload入ってくれないかなー。&lt;br /&gt;
+で、思ったんだけど、この速さなら別段、livereloadじゃなくてもいいや、と思った。&lt;br /&gt;
+いや、入ったらすごくすごくありがたいんだけれども。&lt;br /&gt;
+何故なら、jekyll速度上がってそこまでストレスかからんくなったし、&lt;br /&gt;
+CSS見るならchromeでやれば良いだけだし……&lt;br /&gt;
+ブログだと、やっぱ入れてほしいなと思うけど、&lt;br /&gt;
+サイト作るんだったらいいかなーと。&lt;br /&gt;
+いや、入って欲しいけど。&lt;/p&gt;
+
+&lt;h2 id=&#34;今日やったこと:8af1ea668632c6d0f95688c7177cb178&#34;&gt;今日やったこと&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;花の水やり&lt;/li&gt;
+&lt;li&gt;二章セリフ直し、考え&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;食べた菓子-と-体重-と-やった運動:8af1ea668632c6d0f95688c7177cb178&#34;&gt;食べた菓子。と、体重。と、やった運動&lt;/h2&gt;
+
+&lt;p&gt;通院開始の８月以降、体重が６キロ増えた……orz&lt;br /&gt;
+今日から接種したお菓子の量とか、書いていって、体重落としたい。&lt;br /&gt;
+うあー頑張れー自分頑張れー！&lt;br /&gt;
+目指せ、マイナス-12キロ。&lt;br /&gt;
+……でかいなぁ、１２キロ。太るのは簡単だけど、やせるのはなぁ。&lt;/p&gt;
+
+&lt;h2 id=&#34;その他:8af1ea668632c6d0f95688c7177cb178&#34;&gt;その他&lt;/h2&gt;
+
+&lt;p&gt;今日は体調良かった。この調子で元気になれるといいな。&lt;br /&gt;
+昨日酷かったから心配だったっつーか、怖かったけど。&lt;br /&gt;
+明日も良い日でありますように。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>【 study 】教室の骸骨標本が本物だったのでお葬式をあげることにしました。</title>
@@ -123,9 +222,13 @@ jekyllももう少し軽くなれば良いのに……&lt;br /&gt;
       
       <guid>https://icchii.github.io/about/</guid>
       <description>&lt;p&gt;仕事の合間に、こもごもな諸々。&lt;br /&gt;
-目下の目標は、unity攻略。&lt;br /&gt;
-Hugoの味見ブログ。&lt;br /&gt;
-根っからのjekyll使いなのですが……最近重くてorz&lt;/p&gt;
+何事にも精力的に取りかかろう！&lt;br /&gt;
+取りかかれたら良いな！&lt;br /&gt;
+取りかかりたいな！&lt;br /&gt;
+取りかかったら素敵だよね！&lt;br /&gt;
+なノリの、Hugoの味見ブログ。&lt;br /&gt;
+jekyllを3.01にアップグレードしたけれど、やっぱ、hugoよりも重い気がorz&lt;br /&gt;
+記事数の違いかなぁ。&lt;/p&gt;
 </description>
     </item>
     
